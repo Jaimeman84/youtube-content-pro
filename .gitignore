@@ -54,6 +54,11 @@ htmlcov/
 .tox/
 coverage.xml
 *.cover
+.pytest_cache/
+__pycache__/
+.coverage
+coverage.xml
+.hypothesis/
 
 # Streamlit
 .streamlit/secrets.toml
